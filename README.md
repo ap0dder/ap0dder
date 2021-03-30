@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ap0dder
-- 👀 I’m interested in artificial intelligence and computer vision
-- 🌱 I’m currently learning computer vision
-- 💞️ I’m looking to collaborate on computer vision
+- 👀 I’m interested in artificial intelligence, ROS, and computer vision
+- 🌱 I’m currently learning ROS
+- 💞️ I’m looking to collaborate on ROS
 - 📫 How to reach me ankur.podder@nrel.gov
 
 <!---
